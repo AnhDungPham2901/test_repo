@@ -4,3 +4,5 @@ echo "added new line from vscode";
 
 echo "add new line de tao conflict o local";
 echo "ahihi do ngok";
+
+echo "test git push bang gp";
