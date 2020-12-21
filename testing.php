@@ -11,3 +11,6 @@ $a= 10;
 
 <!-- type cmd + shift + p ==> toggle zen mode to focus - not show gitlens extension -->
 echo "test pull with zsh";
+
+
+// ADDED new line
