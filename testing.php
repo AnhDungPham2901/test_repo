@@ -14,5 +14,4 @@ echo "test pull with zsh";
 
 
 // ADDED new line
-
 //Test merge - default strategy
