@@ -6,12 +6,4 @@ echo "add new line de tao conflict o local";
 echo "ahihi do ngok";
 echo "test git push bang gp";
 
-
-$a= 10;
-
-<!-- type cmd + shift + p ==> toggle zen mode to focus - not show gitlens extension -->
-echo "test pull with zsh";
-
-
-// ADDED new line
-//Test merge - default strategy
+// THIS IS FOR GIT 2
